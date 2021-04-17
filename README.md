@@ -1,4 +1,4 @@
-- [x] pretrain model at https://drive.google.com/file/d/1SRkB2fKaLDwwUpw18mQ3suPjiBevl90n/view?usp=sharing
+- [x] pretrain model at https://drive.google.com/file/d/1-hBgOzUeB0QLS2KIhiLWBwFoj5CwLuzh/view?usp=sharing
 
 
 <a align="left" href="https://apps.apple.com/app/id1452689527" target="_blank">
