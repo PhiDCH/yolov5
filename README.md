@@ -24,8 +24,8 @@ $ unzip via-trafficsign-20210321.zip
 ## Training
 
 ```bash
-$ python train.py --img 224 --batch 16 --epochs 30 --data ../via-trafficsign/via-trafficsign.yaml\
- --weights yolov5s.pt --hyp ../via-trafficsign/hyp.yaml
+$ python train.py --img 224 --batch 16 --epochs 30 --data via-trafficsign.yaml\
+ --weights yolov5s.pt --hyp hyp.yaml
 ```
 <img width="800" src="https://github.com/PhiDCH/yolov5/blob/master/data/images/results.png">
 
